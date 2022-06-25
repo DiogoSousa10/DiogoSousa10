@@ -20,6 +20,6 @@
 <div>
     <a href="https://www.linkedin.com/in/diogo-sousa-245727201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="hzdk#1174" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  
+   <a href="mailto:diogosousar10@gmail.com"> <img alt="Mail" src="https://img.shields.io/badge/diogosousar10@gmail.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> 
 
   </div>
