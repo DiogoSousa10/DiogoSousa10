@@ -22,9 +22,9 @@
    <a href="hzdk#1174" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> 
    <a href="mailto:diogosousar10@gmail.com"> <img alt="Mail" src="https://img.shields.io/badge/diogosousar10@gmail.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> 
 
-       ![Snake animation](https://github.com/DiogoSousa10/DiogoSousa10/blob/output/github-contribution-grid-snake.svg)
+       
      
   </div>
 
   
-  
+  ![Snake animation](https://github.com/DiogoSousa10/DiogoSousa10/blob/output/github-contribution-grid-snake.svg)
