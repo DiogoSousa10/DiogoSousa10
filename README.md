@@ -9,8 +9,9 @@
   <img align="center" alt="Diogo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="Diogo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Diogo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Diogo-ARMv7" height="30" width="40" src="https://img.shields.io/badge/-ARMv7-5bebf5?logo=arm&logoColor=white&style=for-the-badge">
-  <img align="center" alt="Diogo-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  > 
+  <img align="center" alt="Diogo-SQL" height="30" width="130" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"  > 
+  <img align="center" alt="Diogo-REACT" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+  <img align="center" alt="Diogo-REACT" height="30" width="100" src="https://img.shields.io/badge/React_Native-20232A?style=for-the badge&logo=react&logoColor=61DAFB"> 
 
 
 </div>
